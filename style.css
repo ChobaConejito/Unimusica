@@ -1,0 +1,38 @@
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+  font-weight: bold;
+}
+.note
+{
+  font-size: 15px;
+  color: hsl(271, 100%, 92%);
+  font-weight: bold;
+}
+body
+{
+  background-size: cover;	
+}
+  #song
+  {
+  	font-size: 23px;
+  	margin: 15px;
+    border-color: #eb49f3;
+    font-weight: bold;
+    color: aliceblue;
+  }
+    canvas 
+  {
+    border:5px solid rgb(255, 0, 174);
+    border-radius:20px;
+    box-shadow: 5px 5px 5px #e18ae6;
+  }
+h3
+{
+    background-color: #e18ae6;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+
